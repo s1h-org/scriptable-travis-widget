@@ -17,7 +17,7 @@ An iOS 14 widget for [travis-ci.com](https://travis-ci.com) built with [Scriptab
 
 The Travis widget requires a few things to properly work:
 
-1. Scriptable, obviously (v1.5.0 or later)
+1. [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188?ign-mpt=uo%3D4), obviously (v1.5.0 or later)
 2. A Travis API token for [travis-ci.com](https://travis-ci.com)
 3. The repo slug (owner/name) of the repository you want to view in your widget
 
